@@ -4,7 +4,7 @@ LeetCode.
 
 - [ ] Linked List
 	- [x] Add Two Numbers
-	- [ ] Remove Nth Node From End of List
+	- [x] Remove Nth Node From End of List
 	- [ ] Merge Two Sorted Lists
 	- [ ] Merge k Sorted Lists
 	- [ ] Swap Nodes in Pairs

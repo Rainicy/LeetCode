@@ -13,7 +13,7 @@ LeetCode.
 	- [x] Insert Interval
 	- [x] Rotate List
 	- [ ] Remove Duplicates from Sorted List II
-	- [ ] Remove Duplicates from Sorted List
+	- [x] Remove Duplicates from Sorted List
 	- [ ] Partition List
 	- [ ] Reverse Linked List II
 	- [ ] Convert Sorted List to Binary Search Tree

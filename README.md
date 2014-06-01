@@ -11,7 +11,7 @@ LeetCode.
 	- [x] Reverse Nodes in k-Group
 	- [x] Merge Intervals
 	- [x] Insert Interval
-	- [ ] Rotate List
+	- [x] Rotate List
 	- [ ] Remove Duplicates from Sorted List II
 	- [ ] Remove Duplicates from Sorted List
 	- [ ] Partition List

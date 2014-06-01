@@ -8,7 +8,7 @@ LeetCode.
 	- [x] Merge Two Sorted Lists
 	- [ ] Merge k Sorted Lists *_(Time Limits Issue. Need [O = kLog(n)])_*
 	- [x] Swap Nodes in Pairs
-	- [ ] Reverse Nodes in k-Group
+	- [x] Reverse Nodes in k-Group
 	- [ ] Merge Intervals
 	- [ ] Insert Interval
 	- [ ] Rotate List

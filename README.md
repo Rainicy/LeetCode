@@ -10,7 +10,7 @@ LeetCode.
 	- [x] Swap Nodes in Pairs
 	- [x] Reverse Nodes in k-Group
 	- [x] Merge Intervals
-	- [ ] Insert Interval
+	- [x] Insert Interval
 	- [ ] Rotate List
 	- [ ] Remove Duplicates from Sorted List II
 	- [ ] Remove Duplicates from Sorted List

@@ -14,7 +14,7 @@ LeetCode.
 	- [x] Rotate List
 	- [x] Remove Duplicates from Sorted List II
 	- [x] Remove Duplicates from Sorted List
-	- [ ] Partition List
+	- [x] Partition List
 	- [ ] Reverse Linked List II
 	- [ ] Convert Sorted List to Binary Search Tree
 - [ ] Binary Search Tree

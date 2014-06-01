@@ -9,6 +9,13 @@
  */
 public class Solution {
     public List<Interval> merge(List<Interval> intervals) {
+
+        // sort the intervals 
+        Collections.sort(intervals, new Comparator<Interval>(){
+            public int compare(Interval i1, Interval i2){
+                return i1.start - i2.start;
+            }});
+
         // new list of intervals
         List<Interval> newI = new ArrayList<Interval>();
 
@@ -22,7 +29,7 @@ public class Solution {
             for (int j=i+1; j<intervals.size(); j++) {
                 int s = intervals.get(j).start;
                 int e = intervals.get(j).end;
-                // and end
+                // and end 
                 if (end < s) {  // cannot merge
                     i = j;
                     break;
@@ -34,7 +41,7 @@ public class Solution {
                     i = j+1;
                 }
             }
-            // save to the new list
+            // save to the new list 
             newI.add(new Interval(start, end));
         }
         return newI;

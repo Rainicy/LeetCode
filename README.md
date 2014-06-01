@@ -12,7 +12,7 @@ LeetCode.
 	- [x] Merge Intervals
 	- [x] Insert Interval
 	- [x] Rotate List
-	- [ ] Remove Duplicates from Sorted List II
+	- [x] Remove Duplicates from Sorted List II
 	- [x] Remove Duplicates from Sorted List
 	- [ ] Partition List
 	- [ ] Reverse Linked List II

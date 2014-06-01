@@ -17,53 +17,46 @@ public class Solution {
             return null;
         }
 
-        // Assume we can modify the given ListNode in the lists
-        ListIterator<ListNode> it = lists.listIterator();
-        ListNode head = null;
-        while (it.hasNext()) {
-            /*** try another way to merge the current list to the head ***/
-            ListNode cur = it.next();
-            if (head == null) {
-                head = cur;
-            }
-            else {
-                ListNode pHead = head;
-                ListNode prevHead = null;
-                while (cur != null) {
-                    if (pHead == null) {   // merge all the nodes in the list to head list
-                        prevHead.next = cur;
-                        cur = null;
-                    }
-                    else {
-                        ListNode node = cur;    // get the head node in the cur list
-                        cur = cur.next;
-                        node.next = null;
-                        // find the correct position to insert
-                        while ((pHead != null) && (node.val > pHead.val)) {
-                            // move the pHead and preHead forward
-                            if (prevHead == null) {
-                                prevHead = head;
-                                pHead = pHead.next;
-                            }
-                            else {
-                                prevHead = prevHead.next;
-                                pHead = pHead.next;
-                            }
-                        }
-                        // got the correct position
-                        if (prevHead == null) {
-                            prevHead = node;
-                        }
-                        else {
-                            prevHead.next = node;
-                            prevHead = prevHead.next;
-                        }
-                        node.next = pHead;
-                    }
-                }
+        int k = lists.size();
+        if (k == 0) {
+            return null;
+        }
+
+        /***Using the heap to stored the nodes***/
+        PriorityQueue<ListNode> heap=new PriorityQueue<ListNode>(k,new Comparator<ListNode>()
+        {
+            public int compare(ListNode l1,ListNode l2){
+                return l1.val-l2.val;
+            }});
+
+        // stored all the headers
+        for (int i=0; i<k; i++) {
+            if (lists.get(i) != null) {
+                heap.add(lists.get(i));
             }
         }
 
+        // new list head head 
+        ListNode head = null;
+        ListNode p = null;
+
+        while (!heap.isEmpty()) {
+            // pop the minimum node
+            ListNode minNode = heap.poll();
+            // insert the minNode to the new list
+            if (head == null) {
+                head = minNode;
+                p = head;
+            }
+            else {
+                p.next = minNode;
+                p = p.next;
+            }
+            // add the next node after minNode to the heap, if exists
+            if (minNode.next != null) {
+                heap.add(minNode.next);
+            }
+        }
         return head;
     }
 }

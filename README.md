@@ -7,7 +7,7 @@ LeetCode.
 	- [x] Remove Nth Node From End of List
 	- [x] Merge Two Sorted Lists
 	- [ ] Merge k Sorted Lists *_(Time Limits Issue. Need [O = kLog(n)])_*
-	- [ ] Swap Nodes in Pairs
+	- [x] Swap Nodes in Pairs
 	- [ ] Reverse Nodes in k-Group
 	- [ ] Merge Intervals
 	- [ ] Insert Interval

@@ -2,7 +2,7 @@
 
 LeetCode.
 
-- [ ] Linked List
+- [x] Linked List
 	- [x] Add Two Numbers
 	- [x] Remove Nth Node From End of List
 	- [x] Merge Two Sorted Lists

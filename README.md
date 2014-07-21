@@ -2,7 +2,7 @@
 
 LeetCode.
 
-- [ ] Linked List
+- [x] Linked List
 	- [x] Add Two Numbers
 	- [x] Remove Nth Node From End of List
 	- [x] Merge Two Sorted Lists
@@ -17,7 +17,6 @@ LeetCode.
 	- [x] Partition List
 	- [x] Reverse Linked List II
 - [ ] Binary Search Tree
-    - [ ] Convert Sorted List to Binary Search Tree
 	- [ ] Binary Tree Inorder Traversal
 	- [ ] Unique Binary Search Trees
 	- [ ] Unique Binary Search Trees II

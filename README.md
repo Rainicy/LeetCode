@@ -46,7 +46,7 @@ LeetCode.
 ## By Algorithms
 - [ ] Dynamic Programming
 	- [x] [Regular Expression Matching](./DP/Regular_Expression_Matching.md)
-	- [ ] Longest Valid Parentheses
+	- [x] [Longest Valid Parentheses](./DP/Longest_Valid_Parentheses.md)
 	- [ ] Wildcard Matching
 	- [ ] Maximum Subarray
 	- [ ] Unique Paths

@@ -27,7 +27,7 @@ public class Solution {
     public boolean isMatch(String s, String p) {
         /* s is a normal String and p is a pattern */
         if ((s == null) && (p == null)) {
-            return false;
+            return true;
         }
         
         return match(s, p, 0, 0);

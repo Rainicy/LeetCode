@@ -44,7 +44,7 @@ LeetCode.
 	- [ ] Sum Root to Leaf Numbers
 
 ## By Algorithms
-- [] Dynamic Programming
+- [ ] Dynamic Programming
 	- [ ] Regular Expression Matching
 	- [ ] Longest Valid Parentheses
 	- [ ] Wildcard Matching

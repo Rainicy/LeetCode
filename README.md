@@ -1,6 +1,6 @@
 # LeetCode
 
-LeetCode.
+LeetCode implemented by Java.
 
 ## By Data Structures
 - [x] Linked List

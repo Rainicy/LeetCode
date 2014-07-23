@@ -49,7 +49,7 @@ LeetCode implemented by Java.
 	- [x] [Longest Valid Parentheses](./DP/Longest_Valid_Parentheses.md)
 	- [x] [Wildcard Matching](./DP/Wildcard_Matching.md)
 	- [x] [Maximum Subarray](./DP/Maximum_Subarray.md)
-	- [ ] [Unique Paths](./DP/Unique_Paths.md)
+	- [x] [Unique Paths](./DP/Unique_Paths.md)
 	- [ ] Unique Paths II
 	- [ ] Minimum Path Sum
 	- [ ] Climbing Stairs

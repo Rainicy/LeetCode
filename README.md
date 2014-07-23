@@ -2,6 +2,7 @@
 
 LeetCode.
 
+## By Data Structures
 - [x] Linked List
 	- [x] Add Two Numbers
 	- [x] Remove Nth Node From End of List
@@ -41,3 +42,27 @@ LeetCode.
 	- [ ] Populating Next Right Pointers in Each Node II
 	- [ ] Binary Tree Maximum Path Sum
 	- [ ] Sum Root to Leaf Numbers
+
+## By Algorithms
+- [] Dynamic Programming
+	- [ ] Regular Expression Matching
+	- [ ] Longest Valid Parentheses
+	- [ ] Wildcard Matching
+	- [ ] Maximum Subarray
+	- [ ] Unique Paths
+	- [ ] Unique Paths II
+	- [ ] Minimum Path Sum
+	- [ ] Climbing Stairs
+	- [ ] Edit Distance
+	- [ ] Maximal Rectangle
+	- [ ] Scramble String
+	- [ ] Decode Ways
+	- [ ] Unique Binary Search Trees II
+	- [ ] Unique Binary Search Trees
+	- [ ] Interleaving String
+	- [ ] Distinct Subsequences
+	- [ ] Triangle
+	- [ ] Best Time to Buy and Sell Stock
+	- [ ] Best Time to Buy and Sell Stock III
+	- [ ] Palindrome Partitioning II
+

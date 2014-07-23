@@ -48,8 +48,8 @@ LeetCode implemented by Java.
 	- [x] [Regular Expression Matching](./DP/Regular_Expression_Matching.md)
 	- [x] [Longest Valid Parentheses](./DP/Longest_Valid_Parentheses.md)
 	- [x] [Wildcard Matching](./DP/Wildcard_Matching.md)
-	- [ ] [Maximum Subarray](./DP/Maximum_Subarray.md)
-	- [ ] Unique Paths
+	- [x] [Maximum Subarray](./DP/Maximum_Subarray.md)
+	- [ ] [Unique Paths](./DP/Unique_Paths.md)
 	- [ ] Unique Paths II
 	- [ ] Minimum Path Sum
 	- [ ] Climbing Stairs

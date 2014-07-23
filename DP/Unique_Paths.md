@@ -9,6 +9,10 @@ How many possible unique paths are there?
 
 ![image](../images/robot_maze.png)
 
+_Above is a 3 x 7 grid. How many possible unique paths are there?_
+
+__Note__: m and n will be at most 100.
+
 ### Code
 
 ```java

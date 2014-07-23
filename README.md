@@ -50,7 +50,7 @@ LeetCode implemented by Java.
 	- [x] [Wildcard Matching](./DP/Wildcard_Matching.md)
 	- [x] [Maximum Subarray](./DP/Maximum_Subarray.md)
 	- [x] [Unique Paths](./DP/Unique_Paths.md)
-	- [ ] [Unique Paths II](./Unique_Paths_II.md)
+	- [ ] [Unique Paths II](./DP/Unique_Paths_II.md)
 	- [ ] Minimum Path Sum
 	- [ ] Climbing Stairs
 	- [ ] Edit Distance

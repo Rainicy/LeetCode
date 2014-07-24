@@ -39,8 +39,15 @@ public class Solution {
              return 0;  
          }  
          int n = matrix[0].length;
+         
+         /* Remember to initial the Object Array*/
          // creates the dpMatrix
          DPEntry[][] dpMatrix = new DPEntry[m+1][n+1];
+         for (int i=0; i<=m; i++) {
+             for (int j=0; j<=n; j++) {
+                 dpMatrix[i][j] = new DPEntry();
+             }
+         }
 
          int maxArea = 0;
          for (int i=1; i<=m; i++) {

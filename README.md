@@ -53,7 +53,7 @@ LeetCode implemented by Java.
 	- [x] [Unique Paths II](./DP/Unique_Paths_II.md)
 	- [x] [Minimum Path Sum](./DP/Minimum_Path_Sum.md)
 	- [x] [Climbing Stairs](./DP/Climbing_Stairs.md)
-	- [ ] Edit Distance
+	- [ ] [Edit Distance](./DP/Edit_Distance.md)
 	- [ ] Maximal Rectangle
 	- [ ] Scramble String
 	- [ ] Decode Ways

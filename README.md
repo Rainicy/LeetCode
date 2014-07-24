@@ -55,7 +55,7 @@ LeetCode implemented by Java.
 	- [x] [Climbing Stairs](./DP/Climbing_Stairs.md)
 	- [x] [Edit Distance](./DP/Edit_Distance.md)
 	- [ ] [Maximal Rectangle](./DP/Maximal_Rectangle.md)
-	- [ ] Scramble String
+	- [ ] [Scramble String](./DP/Scramble_String.md)
 	- [ ] Decode Ways
 	- [ ] Unique Binary Search Trees II
 	- [ ] Unique Binary Search Trees

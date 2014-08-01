@@ -23,11 +23,11 @@ public class Solution {
         // DP problem and just 1D problem, updates the value from left to right
         /*
         For example: S = '1  2   3'
-              dpArray: =  1  2   3  or [case1 d[3]=d[2]+1] 
+              dpArray: =  1  2   3  or [case1 d[3]=d[2]+d[1]] 
                      S = '1  2   8' 
               dpArray: =  1  2   2. or [case2 d[3]=d[2]]
                      S = '1  2   0'
-              dpArray: =  1  1   1  or [case3 d[3]=--d[2]]
+              dpArray: =  1  1   1  or [case3 d[3]=d[2]=d[1]]
                      S = '3  2   0'
               dpArray: =  1  1   1     [case4 d[3]=d[2]]
         That's to say, we scan the char on s[i], if (s[i-1],s[i]) <= 26, dpArray[i]++, otherwise same.
@@ -55,7 +55,7 @@ public class Solution {
                     dpArray[i] = dpArray[i-1];
                 }
             }
-            else if (canBeSplited(s.charAt(i-1), s.charAt(i))) {    // 
+            else if (canBeSplited(s.charAt(i-1), s.charAt(i))) {    // case 1
                 if (i>=2) {
                     dpArray[i] = dpArray[i-1] + dpArray[i-2];
                 }
@@ -63,7 +63,7 @@ public class Solution {
                     dpArray[i] = dpArray[i-1] + 1;
                 }
             }
-            else {
+            else {  // case 2
                 dpArray[i] = dpArray[i-1];
             }
         }

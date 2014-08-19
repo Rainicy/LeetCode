@@ -60,8 +60,8 @@ LeetCode implemented by Java.
 	- [x] [Unique Binary Search Trees II](./DP/Unique_Binary_Search_Trees_II.md)
 	- [x] [Unique Binary Search Trees](./DP/Unique_Binary_Search_Trees.md)
 	- [x] [Interleaving String](./DP/Interleaving_String.md)
-	- [ ] Distinct Subsequences
-	- [ ] Triangle
+	- [x] [Distinct Subsequences](./DP/Distinct_Subsequences.md)
+	- [x] [Triangle](./DP/Triangle.md)
 	- [ ] Best Time to Buy and Sell Stock
 	- [ ] Best Time to Buy and Sell Stock III
 	- [ ] Palindrome Partitioning II

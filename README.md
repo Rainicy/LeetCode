@@ -67,4 +67,9 @@ LeetCode implemented by Java.
 	- [x] [Best Time to Buy and Sell Stock III](./DP/Best_Time_to_Buy_and_Sell_Stock_III.md)
 	- [x] [Palindrome Partitioning](./DP/Palindrome_Partition.md)
 	- [x] [Palindrome Partitioning II](./DP/Palindrome_Partition_II.md)
+	- [ ] [Word Break](./DP/Word_Break.md)
+	- [ ] [Word Break II](./DP/Word_Break_II.md)
+	- [ ] [Jump Game](./DP/Jump_Game.md)
+	- [ ] [Jump Game II](./DP/Jump_Game_II.md)
+	- [ ] [Substring with Concatenation of All Words](./DP/Substring_with_Concatenation_of_All_Words.md)
 

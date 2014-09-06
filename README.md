@@ -3,6 +3,9 @@
 LeetCode implemented by Java.
 
 ## By Data Structures
+- [ ] Array
+	- [ ] [Single Number](./arrays/Single_Number.md)
+
 - [x] Linked List
 	- [x] Add Two Numbers
 	- [x] Remove Nth Node From End of List
@@ -69,7 +72,7 @@ LeetCode implemented by Java.
 	- [x] [Palindrome Partitioning II](./DP/Palindrome_Partition_II.md)
 	- [ ] [Word Break](./DP/Word_Break.md)
 	- [ ] [Word Break II](./DP/Word_Break_II.md)
-	- [ ] [Jump Game](./DP/Jump_Game.md)
-	- [ ] [Jump Game II](./DP/Jump_Game_II.md)
+	- [x] [Jump Game](./DP/Jump_Game.md)
+	- [x] [Jump Game II](./DP/Jump_Game_II.md)
 	- [ ] [Substring with Concatenation of All Words](./DP/Substring_with_Concatenation_of_All_Words.md)
 

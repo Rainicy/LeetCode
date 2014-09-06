@@ -4,7 +4,7 @@ LeetCode implemented by Java.
 
 ## By Data Structures
 - [ ] Array
-	- [ ] [Single Number](./arrays/Single_Number.md)
+	- [x] [Single Number](./arrays/Single_Number.md)
 
 - [x] Linked List
 	- [x] Add Two Numbers
@@ -20,7 +20,8 @@ LeetCode implemented by Java.
 	- [x] Remove Duplicates from Sorted List
 	- [x] Partition List
 	- [x] Reverse Linked List II
-- [ ] Binary Search Tree
+- [ ] Binary Tree
+	- [x] [Same Tree](./tree/Same_Tree.md)
 	- [ ] Binary Tree Inorder Traversal
 	- [ ] Unique Binary Search Trees
 	- [ ] Unique Binary Search Trees II
@@ -30,7 +31,7 @@ LeetCode implemented by Java.
 	- [ ] Symmetric Tree
 	- [ ] Binary Tree Level Order Traversal
 	- [ ] Binary Tree Zigzag Level Order Traversal
-	- [ ] Maximum Depth of Binary Tree
+	- [x] [Maximum Depth of Binary Tree](./tree/Maximum_Depth_of_Binary_Tree.md)
 	- [ ] Construct Binary Tree from Preorder and Inorder Tr
 	- [ ] Construct Binary Tree from Inorder and Postorder T
 	- [ ] Binary Tree Level Order Traversal II

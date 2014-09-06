@@ -26,16 +26,6 @@ Note: Recursive solution is trivial, could you do it iteratively?
  * }
  */
 public class Solution {
-/**
- * Definition for binary tree
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
- */
-public class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> L = new ArrayList<Integer>();
         if (root == null) {
@@ -79,6 +69,5 @@ public class Solution {
     //     preorderHelper(node.left, L);
     //     preorderHelper(node.right, L);
     // }
-}
 }
 ```

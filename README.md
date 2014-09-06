@@ -25,6 +25,7 @@ LeetCode implemented by Java.
 - [ ] Binary Tree
 	- [x] [Same Tree](./tree/Same_Tree.md)
 	- [ ] Binary Tree Inorder Traversal
+	- [x] [Binary Tree Preorder Traversal](./tree/Binary_Tree_Preorder_Traversal.md)
 	- [ ] Unique Binary Search Trees
 	- [ ] Unique Binary Search Trees II
 	- [ ] Validate Binary Search Tree

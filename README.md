@@ -20,6 +20,7 @@ LeetCode implemented by Java.
 	- [x] Remove Duplicates from Sorted List
 	- [x] Partition List
 	- [x] Reverse Linked List II
+	- [x] [Reverse Integer](./linkedlist/Reverse_Integer.md)
 - [ ] Binary Tree
 	- [x] [Same Tree](./tree/Same_Tree.md)
 	- [ ] Binary Tree Inorder Traversal

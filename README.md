@@ -5,6 +5,11 @@ LeetCode implemented by Java.
 ## By Data Structures
 - [ ] Array
 	- [x] [Single Number](./arrays/Single_Number.md)
+	- [x] [Single Number II](./arrays/Single_Number_II.md)
+	- [x] [Search Insert Position](./arrays/Search_Insert_Position.md)
+
+- [ ] String
+	- [x] [Roman to Integer](./strings/Roman_to_Integer.md)
 
 - [x] Linked List
 	- [x] Add Two Numbers

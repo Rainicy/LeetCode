@@ -45,7 +45,7 @@ LeetCode implemented by Java.
 	- [ ] Path Sum
 	- [ ] Path Sum II
 	- [ ] Flatten Binary Tree to Linked List
-	- [ ] Populating Next Right Pointers in Each Node
+	- [x] [Populating Next Right Pointers in Each Node](./tree/Populating_Next_Right_Pointers_in_Each_Node.md)
 	- [ ] Populating Next Right Pointers in Each Node II
 	- [ ] Binary Tree Maximum Path Sum
 	- [ ] Sum Root to Leaf Numbers

@@ -7,9 +7,11 @@ LeetCode implemented by Java.
 	- [x] [Single Number](./arrays/Single_Number.md)
 	- [x] [Single Number II](./arrays/Single_Number_II.md)
 	- [x] [Search Insert Position](./arrays/Search_Insert_Position.md)
+	- [x] [Remove Element](./arrays/Remove_Element.md)
 
 - [ ] String
 	- [x] [Roman to Integer](./strings/Roman_to_Integer.md)
+	- [x] [Integer to Roman](./string/Integer_to_Roman.md)
 
 - [x] Linked List
 	- [x] Add Two Numbers
